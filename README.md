@@ -3,4 +3,4 @@ Siteye buradan erişebilirsiniz: [...](http://serce.life/)
 
 #Siteden Görseller
 
-![Resim1](https://ibb.co/cYpyjd4)
+<img src="https://i.ibb.co/CPXwfFR/video2.gif" align="right" width="300" height="300">
