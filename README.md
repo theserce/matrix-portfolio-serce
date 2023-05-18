@@ -3,4 +3,4 @@ Siteye buradan erişebilirsiniz: [...](http://serce.life/)
 
 #Siteden Görseller
 
-![...](https://s12.gifyu.com/images/video2.gif "...")
+![Resim1](https://s12.gifyu.com/images/video2.gif)
